@@ -10,7 +10,7 @@ namespace HelloWorld
             double d = 3.14;
             Console.WriteLine(a);
             Console.WriteLine(d);
-            Console.WriteLine("Zdravo");
+            Console.WriteLine("Zdravo aa");
             Console.ReadKey();
         }
     }
